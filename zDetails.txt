@@ -1,0 +1,3 @@
+username=achu
+pass=12345678
+email:ab@gmail.com
